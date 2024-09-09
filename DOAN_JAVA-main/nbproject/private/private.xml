@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+<<<<<<< HEAD
+            <file>file:/C:/Study/KTPM/DOAN_JAVA/src/GUI/StoreScreen.java</file>
+=======
+<<<<<<< HEAD
+            <file>file:/D:/thanh%20phuong/CNPM/DOAN_JAVA/src/GUI/ThongKeGUI.java</file>
+            <file>file:/D:/thanh%20phuong/CNPM/DOAN_JAVA/src/GUI/ThongTinTaiKhoan.java</file>
+            <file>file:/D:/thanh%20phuong/CNPM/DOAN_JAVA/src/GUI/TaiKhoanGUI.java</file>
+            <file>file:/D:/thanh%20phuong/CNPM/DOAN_JAVA/src/GUI/KhoGUI.java</file>
+            <file>file:/D:/thanh%20phuong/CNPM/DOAN_JAVA/src/BUS/KhoBUS.java</file>
+            <file>file:/D:/thanh%20phuong/CNPM/DOAN_JAVA/src/GUI/SearchInStore.java</file>
+            <file>file:/D:/thanh%20phuong/CNPM/DOAN_JAVA/src/DTO/KhoDTO.java</file>
+            <file>file:/D:/thanh%20phuong/CNPM/DOAN_JAVA/src/DAO/KhoDAO.java</file>
+            <file>file:/D:/thanh%20phuong/CNPM/DOAN_JAVA/src/GUI/CenterContentStore.java</file>
+=======
+            <file>file:/C:/Study/KTPM/DOAN_JAVA/src/GUI/CartGUI.java</file>
+            <file>file:/C:/Study/KTPM/DOAN_JAVA/src/BUS/SizeBUS.java</file>
+            <file>file:/C:/Study/KTPM/DOAN_JAVA/src/Main/Main.java</file>
+            <file>file:/C:/Study/KTPM/DOAN_JAVA/src/BUS/chitietsanpham_BUS.java</file>
+            <file>file:/C:/Study/KTPM/DOAN_JAVA/src/DAO/Hoadon_DAO.java</file>
+            <file>file:/C:/Study/KTPM/DOAN_JAVA/src/DTO/model_qlkh.java</file>
+            <file>file:/C:/Study/KTPM/DOAN_JAVA/src/GUI/StoreScreen.java</file>
+            <file>file:/C:/Study/KTPM/DOAN_JAVA/src/GUI/ShoppingCartUI.java</file>
+>>>>>>> 424d2125f079a5aa38d06544852664f4723a77a9
+>>>>>>> 9d91b3d53f5be263b115d35d5b6d9d51d5f4bf51
+        </group>
+    </open-files>
+</project-private>
